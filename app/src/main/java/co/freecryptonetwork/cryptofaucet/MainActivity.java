@@ -1,4 +1,4 @@
-package co.freecryptonetwork.cryptofaucet;
+package //give package name
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
