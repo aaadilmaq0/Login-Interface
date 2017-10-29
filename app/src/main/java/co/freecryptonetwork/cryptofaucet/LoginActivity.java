@@ -1,4 +1,4 @@
-package co.freecryptonetwork.cryptofaucet;
+package //give package name
 
 import android.app.ProgressDialog;
 import android.os.Bundle;
