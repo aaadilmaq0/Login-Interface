@@ -1,4 +1,4 @@
-package co.freecryptonetwork.cryptofaucet;
+package //give package name
 
 import android.annotation.SuppressLint;
 import android.support.v7.app.ActionBar;
